@@ -1,2 +1,6 @@
 # Automation-Testing-Choucair-Saucedemo-POM
-Reto automatización. Proyecto en gradle con Java con patrón Page Object Model 
+- Build tool: Gradle
+- Programming language: Java
+- Design pattern: Page Object Model
+- App Web: https://www.saucedemo.com/
+
